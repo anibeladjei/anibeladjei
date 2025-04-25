@@ -31,7 +31,6 @@ I'm a creative media and web development student passionate about building digit
 
 ## 📬 Let’s Connect
 
-- 🌐 [Visit My Portfolio](https://anibel-adjei-mensah-tourism-website.vercel.app/)
 - 🐙 [GitHub](https://github.com/anibeladjei)
 - 📷  [Anibel_Adjei](https://instagram.com/anibel_adjei) 
 
