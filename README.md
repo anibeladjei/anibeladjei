@@ -24,7 +24,7 @@ I'm a creative media and web development student passionate about building digit
 ## ⚒️ Tech & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,firebase,supabase,webflow,html,css,js,react,tailwind,wordpress,shopify,unity" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=figma,firebase,supabase,webflow,html,css,js,react,tailwind,wordpress,unity" alt="My Skills" />
 </p>
 
 > 🧩 Also use: **Framer** (for animations and design systems)
