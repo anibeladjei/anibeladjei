@@ -1,6 +1,6 @@
-# 👋🏾 Hey there, I'm Anibel Adjei Mensah
+# 👋🏾 Hello there, I'm Anibel Adjei Mensah
 
-I'm a creative media and web development student passionate about building digital experiences that are both meaningful and beautiful. Whether it's designing sleek UIs in Figma or developing powerful web apps with React and Firebase — I enjoy turning ideas into reality.
+I'm a creative media and web development student dreaming about building digital experiences that are both meaningful and beautiful. Whether it's designing sleek UIs in Figma or developing powerful web apps with React and Firebase — I enjoy turning ideas into reality.
 ## 🌍 My Portfolio
 [Preview  ](https://anibel.dev)
 ## 🚧 Projects I've Worked On
