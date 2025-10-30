@@ -1,39 +1,69 @@
-# 👋🏾 Hello there, I'm Anibel Adjei Mensah
+<h1 align="center">👋🏾 Hey, I'm Anibel Adjei-Mensah</h1>
+<h3 align="center">Web Developer • Creative Technologist • Full-Stack Vibe Coder 😂 </h3>
 
-I'm a creative media and web development student dreaming about building digital experiences that are both meaningful and beautiful. Whether it's designing sleek UIs in Figma or developing powerful web apps with React and Firebase — I enjoy turning ideas into reality.
-## 🌍 My Portfolio
-[Preview  ](https://anibel.dev)
-## 🚧 Projects I've Worked On
-
-- 🌍 **Ghana Tourism Web Project** — A media-based web platform to promote Ghanaian culture, nature, and heritage.
-- 💸 **Bento Finance** — A clean, modern finance dashboard UI concept built for managing expenses and budgeting.
-- 📓 **Developer Productivity Tool** — Helps developers track notes, organize tasks, and stay focused.  
-  Cooming soon!
-
-## ⭐ Favorite Work
-
-- 🆘 **Marketing Agency website ** — A visually appealing website showcasing creative campaigns.  
-  🔗 [Preview / Case Study ](https://plixi-craft.vercel.app/)
-
-- 🌐 **Ghana Tourism Website**  
-  🔗 [Preview it here](https://anibel-adjei-mensah-tourism-website.vercel.app/)
-
-- 💸 **Bento Finance Landing Page**  
-  🔗 [Live preview ](https://bento-finance.vercel.app/)
-
-## ⚒️ Tech & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,firebase,supabase,webflow,html,css,js,react,tailwind,wordpress,unity" alt="My Skills" />
+<p align="center">
+  <a href="https://github.com/anibeladjei"><img src="https://img.shields.io/github/followers/anibeladjei?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://anibel.dev"><img src="https://img.shields.io/badge/Portfolio-anibel.dev-blue?style=flat&logo=vercel" alt="Portfolio"></a>
+  <a href="https://instagram.com/anibel_adjei"><img src="https://img.shields.io/badge/Instagram-@anibel__adjei-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
-
-> 🧩 Also use: **Framer** (for animations and design systems)
-
-## 📬 Let’s Connect
-
-- 🐙 [GitHub](https://github.com/anibeladjei)
-- 📷  [Anibel_Adjei](https://instagram.com/anibel_adjei) 
 
 ---
 
-> *“Design for users. Build for the future.”*
+### 💡 About Me  
+I build **digital experiences that connect design, technology, and purpose**.  
+From SaaS tools and AI hubs to eCommerce stores and event websites — I turn ideas into **modern, scalable web solutions**.
+
+---
+
+## 🚀 Featured Projects  
+
+- 🧠 **[Linkpry](https://linkpry.com)** — A next-gen **link-in-bio and portfolio builder** for creators and professionals.  
+  Combines sleek UI with **AI-powered personalization** and analytics.
+
+- ⚙️ **[iFound AI](https://ifoundai.com)** — A **tools and app discovery hub** that helps users find the best AI platforms, productivity apps, and developer tools — all in one place.
+
+- 🎉 **[Geovision Services](https://geovisionservices.com)** — A complete **event management company website**, built with strong visuals and SEO optimization to boost brand visibility.
+
+- 💅🏾 **[Beolux Beauty](https://beoluxbeauty.com)** — A **skincare eCommerce store** focused on clean aesthetics, smooth UX, and trust-driven product storytelling.
+
+- 🌍 **[Ghana Tourism Project](https://anibel-adjei-mensah-tourism-website.vercel.app/)** — A media-based website designed to promote **Ghana’s culture, nature, and heritage** through digital storytelling.
+
+---
+
+## ⚡ More Work  
+
+- 💼 **[PlixiCraft](https://plixi-craft.vercel.app/)** — Creative **marketing agency** landing page built with animations and modern layouts.  
+- 💸 **[Bento Finance](https://bento-finance.vercel.app/)** — A **finance dashboard concept** for budgeting and expense tracking.
+
+---
+
+## 🧰 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,firebase,supabase,vercel,wordpress,html,css,js,webflow,git,notion" alt="My Skills" />
+</p>
+
+> I also use **Framer**, **GSAP**, and **Motion** for animations and prototypes.
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anibeladjei&show_icons=true&theme=radical" alt="Anibel's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibeladjei&layout=compact&theme=radical" alt="Top Languages" height="165" />
+</p>
+
+---
+
+## 📬 Let’s Connect  
+
+<p align="center">
+  <a href="https://github.com/anibeladjei"><img src="https://img.shields.io/badge/GitHub-anibeladjei-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://anibel.dev"><img src="https://img.shields.io/badge/Portfolio-anibel.dev-blue?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://instagram.com/anibel_adjei"><img src="https://img.shields.io/badge/Instagram-@anibel__adjei-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+<h4 align="center"><i>“Design with purpose. Build with precision. Ship with confidence.”</i></h4>
