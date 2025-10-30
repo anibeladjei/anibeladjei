@@ -40,7 +40,7 @@ From SaaS tools and AI hubs to eCommerce stores and event websites — I turn id
 ## 🧰 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,firebase,supabase,vercel,wordpress,html,css,js,webflow,git,notion" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,figma,firebase,supabase,vercel,wordpress,html,css,js,webflow,git,notion" alt="My Skills" />
 </p>
 
 > I also use **Framer**, **GSAP**, and **Motion** for animations and prototypes.
