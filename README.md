@@ -8,6 +8,8 @@
 </p>
 
 ---
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,figma,vercel,firebase,supabase,wordpress,webflow,html,css,js,git,nodejs,notion,framer" alt="Tech Stack" /> <img src="https://skillicons.dev/icons?i=gsap" alt="GSAP" /> <img src="https://img.shields.io/badge/Motion-Animation-black?style=flat&logo=framer&logoColor=white" alt="Motion" /> <img src="https://img.shields.io/badge/Lovable.dev-Build-orange?style=flat&logo=react&logoColor=white" alt="Lovable.dev" /> <img src="https://img.shields.io/badge/Bolt.new-Rapid%20AI%20Prototyping-blue?style=flat&logo=lightning&logoColor=white" alt="Bolt.new" /> </p>
+---
 
 ### 💡 About Me  
 I build **digital experiences that connect design, technology, and purpose**.  
